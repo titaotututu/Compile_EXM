@@ -52,6 +52,12 @@ compile_exm/
 ├── lex.yy.c
 ├── cminus.tab.c
 ├── cminus.tab.h
+├── test1.in  
+├── test2.in
+├── test3.in 
+├── testint.in //测试整数
+├── testf.in  //测试浮点数
+├── testcomment.in  //测试嵌套注释
 ├── .vscode/
     ├── tasks.json
     └── launch.json
